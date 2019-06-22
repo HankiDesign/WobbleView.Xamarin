@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WobbleView.Xamarin", "WobbleView.Xamarin\WobbleView.Xamarin.csproj", "{3212A387-54C1-46FE-8815-0A5A5EDF12D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3212A387-54C1-46FE-8815-0A5A5EDF12D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3212A387-54C1-46FE-8815-0A5A5EDF12D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3212A387-54C1-46FE-8815-0A5A5EDF12D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3212A387-54C1-46FE-8815-0A5A5EDF12D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
